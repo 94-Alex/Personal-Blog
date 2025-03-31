@@ -79,7 +79,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Visual Components',
       img_2: '/images/heo/12-removebg-preview.webp',
-      color_2: '#ffffff'
+      color_2: '#2c51db'
     },
     {
       title_1: 'inovance',
@@ -95,7 +95,7 @@ const CONFIG = {
       color_1: '#f29e39',
       title_2: 'blender',
       img_2: '/images/heo/blen-removebg-preview.webp',
-      color_2: '#2c51db'
+      color_2: '#ffffff'
     },
     {
       title_1: 'CAD',
