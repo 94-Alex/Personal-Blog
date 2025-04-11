@@ -7,26 +7,7 @@
     content: "\f05a";
 }
 
-/* /public/css/custom.css */
-@keyframes sakura-drift {
-  0% {
-    opacity: 0.8;
-    transform: translate(0,0) rotate(0deg);
-  }
-  100% {
-    opacity: 0;
-    transform: translate(calc(100vw * var(--dx)), 100vh) rotate(720deg);
-  }
-}
 
-.sakura-petal {
-  position: fixed;
-  pointer-events: none;
-  font-size: 24px;
-  z-index: 9999;
-  filter: drop-shadow(2px 2px 4px rgba(255,192,203,0.3));
-  --dx: calc((0.5 - var(--seed)) * 0.3); /* 随机水平偏移 */
-}
 
 /* /public/css/custom.css (爆炸效果追加以下代码) */
 @keyframes click-burst {
