@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.yang94.com',
+  HEO_SOCIAL_CARD_URL: '/images/heo/13-removebg-preview.webp',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
