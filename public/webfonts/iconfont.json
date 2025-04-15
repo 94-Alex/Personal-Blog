@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "6531640",
+      "name": "托盘",
+      "font_class": "tuopan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "34386446",
+      "name": "corner-racks.1",
+      "font_class": "a-corner-racks1",
+      "unicode": "e8aa",
+      "unicode_decimal": 59562
+    },
+    {
+      "icon_id": "9052609",
+      "name": "涂料喷涂",
+      "font_class": "tuliaopentu",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "9071113",
+      "name": "喷涂",
+      "font_class": "kongjianhanbi",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "35156693",
+      "name": "喷涂0",
+      "font_class": "pentu0",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
       "icon_id": "32604865",
       "name": "设计中",
       "font_class": "shejizhong",
