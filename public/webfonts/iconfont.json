@@ -6,6 +6,160 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "32604865",
+      "name": "设计中",
+      "font_class": "shejizhong",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "37762833",
+      "name": "调试",
+      "font_class": "jianxiu_line",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "38048033",
+      "name": "设计中心",
+      "font_class": "shejizhongxin",
+      "unicode": "ea44",
+      "unicode_decimal": 59972
+    },
+    {
+      "icon_id": "1177721",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3808490",
+      "name": "货架",
+      "font_class": "huojia--",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5853846",
+      "name": "48其他",
+      "font_class": "qita1",
+      "unicode": "e942",
+      "unicode_decimal": 59714
+    },
+    {
+      "icon_id": "9529941",
+      "name": "机械臂",
+      "font_class": "jixiebi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "33753629",
+      "name": "3D模型库",
+      "font_class": "a-3Dmoxingku",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "36077009",
+      "name": "立库信息",
+      "font_class": "likuxinxi",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "36589488",
+      "name": "3D模型文件-copy",
+      "font_class": "a-3Dmoxingwenjian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "37889222",
+      "name": "喷涂",
+      "font_class": "a-ziyuan6",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "42771594",
+      "name": "单工位堆垛机 -右空托",
+      "font_class": "a-dangongweiduiduoji-youkongtuo",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "43419917",
+      "name": "AGV",
+      "font_class": "AGV",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "19933519",
+      "name": "3D",
+      "font_class": "3D",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "28009249",
+      "name": "仿真",
+      "font_class": "fangzhen-24",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "35808637",
+      "name": "虚拟仿真",
+      "font_class": "xunifangzhen",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8804838",
+      "name": "CUSTOM CODING",
+      "font_class": "CUSTOMCODING",
+      "unicode": "e8fa",
+      "unicode_decimal": 59642
+    },
+    {
+      "icon_id": "8943927",
+      "name": "视觉定位",
+      "font_class": "shijuedingwei1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "10905595",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13592700",
+      "name": "ivision 智能视觉",
+      "font_class": "ivisionzhinengshijue",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "16711343",
+      "name": "机器视觉产品",
+      "font_class": "jiqishijuechanpin",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "38304563",
+      "name": "信息-圆-F",
+      "font_class": "xinxi-yuan-F",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
       "icon_id": "6401236",
       "name": "沙漏",
       "font_class": "weibiaoti--",
